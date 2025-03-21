@@ -11,5 +11,8 @@
   "dependencies": {
     "chart.js": "^3.9.1",
     "chartjs-node-canvas": "^4.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.11"
   }
 }
